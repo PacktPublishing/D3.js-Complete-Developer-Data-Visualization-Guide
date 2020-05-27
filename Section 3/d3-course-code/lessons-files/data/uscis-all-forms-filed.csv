@@ -1,0 +1,50 @@
+form_type,form_description,received,approved,denied,pending,base_type
+I-129F,Fiancée Petitions,11460,5708,1991,28587,Family Based
+I-130,Immediate and Preference Relatives,199214,134532,11754,1348685,Family Based
+I-485,Family-Based Adjustments,85009,63872,7797,335762,Family Based
+I-600/600A,Orphan Petitions,587,471,65,521,Family Based
+I-601A,Provisional Waivers,15166,15843,725,21464,Family Based
+I-751,Remove Conditions on Residence,42913,23402,1342,215780,Family Based
+I-800/800A,Convention Country Adoptions,1731,1740,15,783,Family Based
+I-129,Nonimmigrant Worker Petitions,90753,106869,32829,112588,Employment Based
+I-140,Immigrant Petitions for Workers,27581,27753,2488,56701,Employment Based
+I-485,Employment-Based Adjustments,33320,30472,2142,142561,Employment Based
+I-526,Petitions by Entrepreneurs,2862,2746,298,22475,Employment Based
+I-765,Employment Authorization Documents,383011,330017,32700,571798,Employment Based
+I-829,Remove Conditions on Entrepreneur,862,901,0,6243,Employment Based
+I-924/924A,Regional Center Applications,345,112,38,1402,Employment Based
+I-485,Asylum Adjustments,7206,7465,281,24234,Humanitarian
+I-485,Refugee Adjustments,25937,17390,347,54669,Humanitarian
+I-485,Indo Chinese Adjustments,0,0,0,0,Humanitarian
+I-485,Cuban Adjustment Act,19731,18513,510,59092,Humanitarian
+I-589,Asylum Application,32420,3231,47,307635,Humanitarian
+Legalization 6,Legalization/ SAW,13,18,47,241,Humanitarian
+I-730,Refugee/Asylee Relative Petitions,3206,1700,412,10598,Humanitarian
+I-817,Family Unity Applications,213,97,10,1172,Humanitarian
+I-821,Temporary Protected Status,9550,10071,785,28898,Humanitarian
+I-821D,Deferred Action for Childhood Arrivals,29527,98639,2549,45806,Humanitarian
+I-867,Credible Fear Referral,22065,0,0,2457,Humanitarian
+I-881,NACARA 203 Applications,131,48,11,553,Humanitarian
+I-889,Reasonable Fear,2573,0,0,216,Humanitarian
+I-914,T Nonimmigrant Status Applications,629,316,130,2482,Humanitarian
+I-918,U Nonimmigrant Status Applications,14824,4791,908,201279,Humanitarian
+I-929,Petitions for Family of U Nonimmigrants,313,270,58,1558,Humanitarian
+N-300,Declaration of Intent,0,0,0,90,Citizenship and Nationality
+N-336,Requests for Hearing,1082,519,501,4192,Citizenship and Nationality
+N-400,Military Naturalization,1069,755,191,5749,Citizenship and Nationality
+N-400,Non-Military Naturalization,178879,165675,19959,724219,Citizenship and Nationality
+N-470,Preserve Residence for Naturalization,27,30,26,45,Citizenship and Nationality
+N-565,Replace Naturalization/Citizenship Certificates,5054,3397,492,16471,Citizenship and Nationality
+N-600/600K,Recognition of Citizenship Applications,12011,14696,928,42402,Citizenship and Nationality
+N-644,Posthumous Naturalization,0,0,0,10,Citizenship and Nationality
+N-648,Disability Exception Applications,708,1665,860,1325,Citizenship and Nationality
+I-90,Renew/Replace Permanent Resident Cards,166992,211343,13241,564658,Other
+I-102,Replace I-94s,1385,1208,349,2714,Other
+I-131,Reentry Permit/Refugee Travel Document,17519,17853,1736,18551,Other
+I-131,Advance Parole,94785,73967,13177,118790,Other
+I-193,Passport/Visa Waiver Applications,31,21,13,746,Other
+I-360,Immigrant Petitions,9622,3684,941,43149,Other
+I-485,Other Adjustments of Status,9355,5070,975,34073,Other
+I-539,Applications to Extend/ Change Nonimmigrant Status,52562,45359,8444,87548,Other
+I-824,Action on Approved Applications or Petitions,2766,1974,410,5821,Other
+Waivers 7,Waivers,19604,8507,2185,182712,Other
